@@ -1,16 +1,18 @@
-## Hi there 👋
+# Camile DCS
 
-<!--
-**camiledcs-dev/camiledcs-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Developer since 2017  
+Creative Technologist | 3D & VFX | Cybersecurity Student
 
-Here are some ideas to get you started:
+I build digital products end-to-end:
+• Web applications (frontend + backend)
+• Interactive experiences
+• 3D and post-production pipelines
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+JavaScript • Python • Java • C#  
+React • Node.js • APIs • Databases
+
+## Currently building
+Nebula Stream — Streaming platform concept  
+Smart City Dashboard — Data + 3D visualization  
+Mood Music App — Interactive creative web app
